@@ -28,7 +28,7 @@ I am Pranav Padmannavar, a Master of Science in Analytics student at the Univers
   - Interactive filters for time period and engagement metrics
   - Visualization of post performance over time
   - Analysis of user demographics and engagement trends
-- **Link**: [Instagram Data Analysis Dashboard](https://public.tableau.com/shared/4XBPTN6HN?:display_count=n&:origin=viz_share_link)
+- **Link**: [Instagram Data Analysis Dashboard](https://public.tableau.com/views/Netflix_17627342414270/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Project 2: IMDb Movie Dashboard
 
@@ -46,7 +46,7 @@ I am Pranav Padmannavar, a Master of Science in Analytics student at the Univers
   - Analysis of visit reasons and frequency
   - Demographic breakdown of patients
   - Time-based trends and patterns in emergency room visits
-- **Link**: [Emergency Room Visits Analytics](https://public.tableau.com/shared/7W74WGMNZ?:display_count=n&:origin=viz_share_link)
+- **Link**: [Emergency Room Visits Analytics](https://public.tableau.com/views/EmergencyRoomVisitsAnalytics_17627339383640/EmergencyRoomDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Project 4: Netflix Movie Analytics
 
